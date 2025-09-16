@@ -103,16 +103,7 @@
 - Integrated **Trivy, Snyk, SonarQube** for security-as-code and code quality.  
 - Optimized pipelines with parallel stages and automated notifications.
 
-### 🔹 [Cloud-Native Deployment on AWS EKS with Fargate](https://github.com/shreyash81/aws-eks-fargate)  
-- Deployed a containerized app on EKS with Fargate; automated cluster provisioning with **eksctl & AWS CLI**.
 
-### 🔹 [Secure Kubernetes Deployment](https://github.com/shreyash81/secure-k8s-deployment)  
-- Implemented **RBAC, Network Policies, Pod Security Policies** and automated Kube-bench scans in CI.
-
-### 🔹 [Terraform AWS Modules](https://github.com/shreyash81/terraform-modules)  
-- Reusable Terraform modules for VPC, EC2, EKS — modular infra as code.
-
----
 
 ## 📊 GitHub Stats
 
