@@ -1,20 +1,17 @@
-👋 Hi, I’m Shreyash Chauhan
-🚀 DevOps Enthusiast | Cloud Explorer | Automation Lover
+## ✨ About Me  
 
-✍ You can find my projects here → Click Me
+👋 Hi, I’m **Shreyash Chauhan**  
+🚀 DevOps Enthusiast | Cloud Explorer | Automation Lover  
 
-🔭 I’m currently learning to contribute to Open Source Projects
+- ✍ You can explore all my projects here → [Click Me](https://github.com/shreyash81?tab=repositories)  
+- 🔭 Currently learning to **contribute to Open Source Projects**  
+- 🌱 Deep diving into **Amazon Web Services (AWS)** & **Kubernetes**  
+- 👯 Excited to collaborate on **Cloud-Native & DevOps projects**  
+- 💬 Ask me about **CI/CD, Docker, Kubernetes, Terraform, and AWS**  
+- 😄 Pronouns: **He/Him**  
+- ⚡ Fun fact: I can debug YAML files faster than I can find my TV remote! 😅  
 
-🌱 Exploring more about Amazon Web Services (AWS) & Kubernetes
 
-👯 Looking to collaborate on Cloud-Native & DevOps projects
-
-💬 Ask me about CI/CD, Kubernetes, Terraform, and AWS
-
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I can debug YAML files faster than I can find my TV remote! 😅
----
 
 ## 🛠️ Languages & Tools
 
