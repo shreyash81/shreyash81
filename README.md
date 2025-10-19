@@ -92,18 +92,45 @@
 
 ## 📌 Featured Projects
 
-### 🔹 [Robot Shop Microservices Deployment](https://github.com/shreyash81/robot-shop)  
-- Deployed a **12-microservice e-commerce app** on AWS EKS using Helm (simulated environment).  
-- Automated CI/CD with **GitHub Actions & Argo CD** (GitOps).  
-- Configured **HPA, ALB, health checks**, demonstrating scalability & reliability.  
-- Integrated monitoring with **Prometheus, Grafana, ELK, Instana**.  
+Robot Shop Microservices Deployment
 
-### 🔹 [DevSecOps Integrated CI/CD Pipeline](https://github.com/shreyash81/devsecops-pipeline)  
-- Built a **multi-service CI/CD pipeline** using Jenkins & GitHub Actions.  
-- Integrated **Trivy, Snyk, SonarQube** for security-as-code and code quality.  
-- Optimized pipelines with parallel stages and automated notifications.
+Deployed a 10-microservice e-commerce app on AWS EKS using Helm.
 
+Automated CI/CD with GitHub Actions & Argo CD, cutting manual effort by 80%.
 
+Integrated Node.js, Python, Java, Go, PHP services with MongoDB, MySQL, Redis, RabbitMQ.
+
+Configured HPA, ALB, health checks, and monitoring with Prometheus & Grafana.
+
+🔹 Cloud-Native Deployment on AWS EKS with Fargate
+
+Deployed a 2048 web app on EKS with Fargate, reducing operational overhead by 30%.
+
+Used Docker & Kubernetes for smooth scaling and fast deployments.
+
+Automated cluster setup with eksctl & AWS CLI, saving 85% setup time.
+
+Achieved 99.9% uptime with auto-scaling and optimized deployment strategy.
+
+🔹 DevSecOps Integrated CI/CD Pipeline
+
+Built CI/CD pipelines using Jenkins, GitLab CI & GitHub Actions for fast releases.
+
+Containerized apps with Docker and deployed via Helm & Argo CD (GitOps).
+
+Integrated Trivy, Snyk, SonarQube for security-as-code, cutting vulnerabilities by 30–40%.
+
+Optimized pipelines with parallel stages & automated notifications, reducing deploy time from 2h → 20min.
+
+🔹 Kubernetes Security Automation
+
+Managed multi-cloud Kubernetes clusters with automated security & compliance.
+
+Developed Kyverno policies for validate, mutate, generate, and image checks.
+
+Integrated Argo CD for GitOps-based auto-deployments.
+
+Ensured 100% cluster-wide compliance, boosting security and reliability.
 
 ## 📊 GitHub Stats
 
